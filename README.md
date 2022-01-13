@@ -1,6 +1,6 @@
-# bitcoin-address [![Build Status](https://secure.travis-ci.org/defunctzombie/bitcoin-address.png)](http://travis-ci.org/defunctzombie/bitcoin-address) #
+# bitcoin-address-validator
 
-Functions for working with bitcoin addresses
+Functions for working with bitcoin address validation and other more functions that you need will be logged out
 
 ## install ##
 
